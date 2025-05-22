@@ -6,7 +6,7 @@
 - Aneesh Mokashi  
 
 **Course**: Deep Learning – Spring 2025  
-**Professor**: Chinmay Hegde  
+**Professor**: Chinmay Hegde    
 **Project**: Mini Project 2 — Low-Rank Adaptation under 1M Parameters  
 
 
